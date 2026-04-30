@@ -144,6 +144,7 @@ const PEOPLE = [
   { id: "p5", first: "Aylin", last: "Demir", role: "Servicekraft", quals: ["Gastronomie","Barista","Erste Hilfe"], status: "Aktiv", avail: "Verfügbar", phone: "+49 711 123 4505", email: "aylin.demir@sds-bw.de", score: 4.8, since: "2020-11-02", city: "Heidelberg" },
   { id: "p6", first: "Jonas", last: "Berger", role: "Eventleitung", quals: ["Eventleitung","Sachkunde §34a"], status: "Aktiv", avail: "Urlaub", phone: "+49 711 123 4506", email: "jonas.berger@sds-bw.de", score: 4.5, since: "2018-06-20", city: "Stuttgart" },
   { id: "p7", first: "Kira", last: "Lang", role: "Sicherheitsdienst", quals: ["Sachkunde §34a","Brandschutz","Erste Hilfe"], status: "Aktiv", avail: "Verfügbar", phone: "+49 711 123 4507", email: "kira.lang@sds-bw.de", score: 4.7, since: "2022-09-12", city: "Reutlingen" },
+  { id: "p7", first: "Vivek", last: "Shinde", role: "AI Lead", quals: ["SAP Expert","Migration","Upgrade"], status: "Active", avail: "Available", phone: "+91 99999 99999", email: "vivek@log-now.com", score: 5.0, since: "2026-04-30", city: "Mumbai" },
   { id: "p8", first: "Marco", last: "Fuchs", role: "Servicekraft", quals: ["Gastronomie"], status: "Inaktiv", avail: "Nicht verfügbar", phone: "+49 711 123 4508", email: "marco.fuchs@sds-bw.de", score: 4.1, since: "2023-08-01", city: "Tübingen" },
 ];
 
